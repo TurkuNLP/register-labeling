@@ -9,10 +9,7 @@ For information on the model, please see https://aclanthology.org/2021.nodalida-
 Cite:
 @inproceedings{ronnqvist-etal-2021-multilingual,
 title = "Multilingual and Zero-Shot is Closing in on Monolingual Web Register Classification",
-author = {R{\"o}nnqvist, Samuel  and
-Skantsi, Valtteri  and
-Oinonen, Miika  and
-Laippala, Veronika},
+author = {R{\"o}nnqvist, Samuel  and Skantsi, Valtteri  and Oinonen, Miika  and Laippala, Veronika},
 booktitle = "Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa)",
 month = may # " 31--2 " # jun,
 year = "2021",
