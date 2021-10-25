@@ -12,6 +12,11 @@
 #SBATCH --array=0-3
 
 echo "START: $(date)"
+mkdir -p arr_logs
+
+if [ -f models/*.gz ];
+  then gzip -d models/*.gz
+fi
 
 mkdir -p arr_logs
 
