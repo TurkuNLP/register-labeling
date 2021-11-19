@@ -1,10 +1,12 @@
 # register-labeling
 
-Scripts used to label OSCAR with register data
+Scripts used to label OSCAR with register information
 
 Register tagged data can be found at https://huggingface.co/datasets/mhtoin/register_oscar
 
 Data should be added to the data directory. By default, the expected structure is data/two-letter-language-code/1/ 2/ 3/
+
+The model can be downloaded from  http://dl.turkunlp.org/register-labeling-model/
 
 To run tagging on a whole language package in a slurm environment (split into further packages of 200 parts/package):
 
