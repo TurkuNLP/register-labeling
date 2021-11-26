@@ -36,4 +36,4 @@ python predict_labels.py \
 Cite:
 Rönnqvist, S., Skantsi, V., Oinonen, M., & Laippala, V. (2021). Multilingual and Zero-Shot is Closing in on Monolingual Web Register Classification. Nordic Conference on Computational Linguistics, Linköping Electronic Conference Proceedings. https://aclanthology.org/2021.nodalida-main.16/
 
-
+Repo, Liina. Skantsi, Valtteri, Rönnqvist, Samuel, Hellström, Saara, Oinonen, Miika, Salmela, Anna, Biber, Douglas, Egbert, Jesse, Pyysalo, Sampo & Laippala, Veronika (2021). Beyond the English Web: Zero-Shot Cross-Lingual and Lightweight Monolingual Classification of Registers. Proceedings of the Conference of the European Chapter of Association for Computational Linguistics: Student Workshop.
